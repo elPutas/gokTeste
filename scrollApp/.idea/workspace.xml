@@ -226,6 +226,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="551" height="443" key="DebuggerActiveHint/0.0.1280.800@0.0.1280.800" timestamp="1599774930044" />
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog" timestamp="1599786906507">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.0.1280.800@0.0.1280.800" timestamp="1599786906507" />
     <state width="1238" height="162" key="GridCell.Tab.0.bottom" timestamp="1599782955932">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -270,6 +274,10 @@
       <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state width="640" height="482" key="XDebugger.FullValuePopup/0.23.1280.730@0.23.1280.730" timestamp="1599507142653" />
+    <state x="100" y="67" width="1080" height="722" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1599786782985">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="100" y="67" width="1080" height="722" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1280.730@0.23.1280.730" timestamp="1599786782985" />
     <state x="308" y="44" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599782929504">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -292,11 +300,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/model/CardsRepository.kt</url>
-          <line>38</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/view/CardAdapterSpot.kt</url>
           <line>24</line>
           <option name="timeStamp" value="21" />
@@ -305,51 +308,6 @@
           <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/view/CardAdapterSpot.kt</url>
           <line>28</line>
           <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/model/CardsRepository.kt</url>
-          <line>39</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/viewModel/CardsViewModel.kt</url>
-          <line>79</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/model/CardsRepository.kt</url>
-          <line>51</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/model/CardsRepository.kt</url>
-          <line>47</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/viewModel/CardsViewModel.kt</url>
-          <line>68</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/viewModel/CardsViewModel.kt</url>
-          <line>57</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/view/MainActivity.kt</url>
-          <line>52</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/view/MainActivity.kt</url>
-          <line>85</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/view/MainActivity.kt</url>
-          <line>79</line>
-          <option name="timeStamp" value="47" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

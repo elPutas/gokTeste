@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="oops_the_list_is_empty">Oops, the list is empty</string>
+    <string name="digio_cash">Digio cash</string>
+    <string name="produto">Produto</string>
+    <string name="ola">Olá Maria</string>
+</resources>
