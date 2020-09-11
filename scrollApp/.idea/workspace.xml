@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3c684e8-c60e-4428-950b-c660c71df7f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Copy_of_Pixel_2_API_28" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Enum" />
+        <option value="Class" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h62QrlI91tspqNidLF7bWI43mU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/layout" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1599317273479" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="memory.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.gok.myapplication.view" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.gok.myapplication.view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3c684e8-c60e-4428-950b-c660c71df7f2" name="Default Changelist" comment="" />
+      <created>1599317207111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599317207111</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="419" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1599773943600">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="419" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1599773943600" />
+    <state x="175" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599773302280">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="175" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.800@0.0.1280.800" timestamp="1599773302280" />
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599685277384">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1599685277384" />
+    <state x="403" y="59" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1599321748893">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="403" y="59" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1599321748893" />
+    <state x="336" y="259" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1599783324059">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="336" y="259" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.800@0.0.1280.800" timestamp="1599783324059" />
+    <state x="228" y="162" key="AndroidCreateResourceFileDialog" timestamp="1599322516136">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="228" y="162" key="AndroidCreateResourceFileDialog/0.0.1280.800@0.0.1280.800" timestamp="1599322516136" />
+    <state x="495" y="254" key="AndroidCreateXmlResourceDialog" timestamp="1599776111492">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="495" y="254" key="AndroidCreateXmlResourceDialog/0.0.1280.800@0.0.1280.800" timestamp="1599776111492" />
+    <state x="496" y="172" key="AndroidProcessChooserDialog" timestamp="1599766097727">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="496" y="172" key="AndroidProcessChooserDialog/0.0.1280.800@0.0.1280.800" timestamp="1599766097727" />
+    <state width="551" height="443" key="DebuggerActiveHint" timestamp="1599774930044">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="551" height="443" key="DebuggerActiveHint/0.0.1280.800@0.0.1280.800" timestamp="1599774930044" />
+    <state width="1238" height="162" key="GridCell.Tab.0.bottom" timestamp="1599782955932">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="162" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1599782955932" />
+    <state width="1238" height="254" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1599766107130" />
+    <state width="1238" height="162" key="GridCell.Tab.0.center" timestamp="1599782955930">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="162" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1599782955930" />
+    <state width="1238" height="254" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1599766107125" />
+    <state width="1238" height="162" key="GridCell.Tab.0.left" timestamp="1599782955928">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="162" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1599782955928" />
+    <state width="1238" height="254" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1599777309069" />
+    <state width="1238" height="162" key="GridCell.Tab.0.right" timestamp="1599782955931">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="162" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1599782955931" />
+    <state width="1238" height="254" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1599766107128" />
+    <state width="1238" height="254" key="GridCell.Tab.1.bottom" timestamp="1599777487833">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="254" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1599777487833" />
+    <state width="1238" height="254" key="GridCell.Tab.1.bottom/0.23.1280.730@0.23.1280.730" timestamp="1599766104501" />
+    <state width="1238" height="254" key="GridCell.Tab.1.center" timestamp="1599777487832">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="254" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1599777487832" />
+    <state width="1238" height="254" key="GridCell.Tab.1.center/0.23.1280.730@0.23.1280.730" timestamp="1599766104493" />
+    <state width="1238" height="254" key="GridCell.Tab.1.left" timestamp="1599777487831">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="254" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1599777487831" />
+    <state width="1238" height="254" key="GridCell.Tab.1.left/0.23.1280.730@0.23.1280.730" timestamp="1599766104489" />
+    <state width="1238" height="254" key="GridCell.Tab.1.right" timestamp="1599777487832">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="254" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1599777487832" />
+    <state width="1238" height="254" key="GridCell.Tab.1.right/0.23.1280.730@0.23.1280.730" timestamp="1599766104497" />
+    <state width="640" height="482" key="XDebugger.FullValuePopup" timestamp="1599507142653">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state width="640" height="482" key="XDebugger.FullValuePopup/0.23.1280.730@0.23.1280.730" timestamp="1599507142653" />
+    <state x="308" y="44" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599782929504">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="308" y="44" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.800@0.0.1280.800" timestamp="1599782929504" />
+    <state x="292" y="157" width="695" height="486" key="find.popup" timestamp="1599782939235">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="292" y="157" width="695" height="486" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1599782939235" />
+    <state width="343" height="87" key="javadoc.popup.new" timestamp="1599782752989">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="343" height="87" key="javadoc.popup.new/0.0.1280.800@0.0.1280.800" timestamp="1599782752989" />
+    <state width="343" height="87" key="javadoc.popup.new/0.23.1280.730@0.23.1280.730" timestamp="1599765829588" />
+    <state x="402" y="38" key="refactoring.ChangeSignatureDialog" timestamp="1599508940126">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="402" y="38" key="refactoring.ChangeSignatureDialog/0.0.1280.800@0.0.1280.800" timestamp="1599508940126" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/model/CardsRepository.kt</url>
+          <line>38</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/view/CardAdapterSpot.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/view/CardAdapterSpot.kt</url>
+          <line>28</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/model/CardsRepository.kt</url>
+          <line>39</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/viewModel/CardsViewModel.kt</url>
+          <line>79</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/model/CardsRepository.kt</url>
+          <line>51</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/model/CardsRepository.kt</url>
+          <line>47</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/viewModel/CardsViewModel.kt</url>
+          <line>68</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/viewModel/CardsViewModel.kt</url>
+          <line>57</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/view/MainActivity.kt</url>
+          <line>52</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/view/MainActivity.kt</url>
+          <line>85</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/gok/myapplication/view/MainActivity.kt</url>
+          <line>79</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="app">
+        <watch expression="viewModel.cards.value" language="kotlin" />
+        <watch expression="viewModel.cardsProduct.value" language="kotlin" />
+        <watch expression="viewModel.cardsSpot.value" language="kotlin" />
+        <watch expression="viewModel.cardsCash.value" language="kotlin" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
